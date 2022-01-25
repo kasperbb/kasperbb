@@ -36,9 +36,6 @@ me.sayHi()
 
 ## 📉 Statistics
 
-<span><img src="https://github-readme-stats.vercel.app/api?username=kasperbb&show_icons=true&hide=issues&theme=tokyonight" /></span>
-<span><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kasperbb&layout=compact&theme=tokyonight" /></span>
-
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
