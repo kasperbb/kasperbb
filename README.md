@@ -40,6 +40,9 @@ me.sayHi()
 <span><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kasperbb&layout=compact&theme=tokyonight" /></span>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 
