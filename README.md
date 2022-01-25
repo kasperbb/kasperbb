@@ -34,7 +34,7 @@ me.sayHi()
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=1f84be)
 
 
-## 📉 Statistics
+## ⚡ Activity
 
 <!--START_SECTION:waka-->
 ```text
