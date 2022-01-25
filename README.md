@@ -26,18 +26,21 @@ me.sayHi()
 
 ## 🔧 Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=1f84be)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=1f84be)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=1f84be)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=1f84be)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=1f84be)
-![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=1f84be)
+![](https://img.shields.io/badge/OS-Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=1f84be)
+![](https://img.shields.io/badge/Editor-VS_Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=1f84be)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=1f84be)
+![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&logoColor=white&color=1f84be)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=for-the-badge&logo=gnu-bash&logoColor=white&color=1f84be)
+![](https://img.shields.io/badge/Tools-Firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=1f84be)
 
 
 ## 📉 Statistics
 
-<span><img src="https://github-readme-stats.vercel.app/api?username=kasperbb&show_icons=true&theme=tokyonight&hide=issues" /></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=kasperbb&show_icons=true&hide=issues&theme=tokyonight" /></span>
 <span><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kasperbb&layout=compact&theme=tokyonight" /></span>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ## 🏆 GitHub Trophies
