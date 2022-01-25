@@ -74,4 +74,4 @@ No Activity tracked this Week
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=2dcdplw9dlyp9sg9ic187q8zx&cover_image=true&theme=default" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=2dcdplw9dlyp9sg9ic187q8zx&cover_image=true&theme=natemoo-re" />
