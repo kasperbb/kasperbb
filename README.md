@@ -19,7 +19,7 @@ me.sayHi()
 
 ```
 
-- 🔭 I’m currently working on [Popcorn Tracker](https://github.com/kasperbb/popcorntracker)  
+- 🔭 I’m currently working on [my portfolio](https://bjorno.dev)  
 - 🌱 I’m currently learning TypeScript and NextJS
 - ⚡ Fun fact: I started creating small websites at 10 years old
 
