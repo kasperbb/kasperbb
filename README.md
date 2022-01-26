@@ -1,4 +1,4 @@
-# Hello there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello there <img src="https://raw.githubusercontent.com/kasperbb/kasperbb/main/wave.gif" width="30px">
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kasperbb.kasperbb)
 
