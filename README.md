@@ -19,8 +19,7 @@ me.sayHi()
 
 ```
 
-- 🔭 I’m currently working on [my portfolio](https://bjorno.dev)  
-- 🌱 I’m currently learning TypeScript and NextJS
+- 🔭 I’m currently working for Altibox on [tv.altibox.no](https://tv.altibox.no/)
 - ⚡ Fun fact: I started creating small websites at 10 years old
 
 
