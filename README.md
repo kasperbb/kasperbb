@@ -78,7 +78,7 @@ XML          9 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="mailto:kasperbb98@gmail.com" target="_blank">
-  <img src=https://img.shields.io/badge/email-%231E77B5.svg?&style=for-the-badge&logo=mail.ru&logoColor=white alt=email style="margin-bottom: 5px;" />
+  <img src=https://img.shields.io/badge/kasperbb98@gmail.com-%231E77B5.svg?&style=for-the-badge&logo=mail.ru&logoColor=white alt=kasperbb98@gmail.com style="margin-bottom: 5px;" />
 </a>
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=2dcdplw9dlyp9sg9ic187q8zx&cover_image=true&theme=natemoo-re" />
