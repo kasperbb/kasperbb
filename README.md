@@ -56,8 +56,7 @@ me.sayHi()
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   22 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣄⣀⣀⣀⣀   80.87 %
-SCSS         5 mins          ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
